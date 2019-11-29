@@ -11,7 +11,7 @@ None
 
 ## Data
 ### Top 5 IPs
-1. 209.141.35.236 (365 attacks)(US)
+1. 209.141.35.236 - 365 attacks - US
 2. 45.33.82.172 (62 attacks)(US)
 3. 95.106.123.34 (55 attacks)(RUS)
 4. 194.55.142.100 (49 attacks)(GER)
